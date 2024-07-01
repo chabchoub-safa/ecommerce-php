@@ -1,4 +1,4 @@
-#Ecommerce_website 
+# Ecommerce_website 
 This repository contains the code for a full-featured e-commerce website developed using PHP. 
 The project aims to provide a seamless shopping experience for users and includes a range of functionalities such as product browsing and cart management ...
 
